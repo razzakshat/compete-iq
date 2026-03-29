@@ -1,0 +1,14 @@
+# API keys and secrets - never upload these
+.env
+
+# Python virtual environment - too large to upload
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB local database files
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
