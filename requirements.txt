@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+anthropic
+sentence-transformers
+chromadb
+pymupdf
+pandas
+httpx
+beautifulsoup4
+tavily-python
+python-multipart
+google-generativeai
